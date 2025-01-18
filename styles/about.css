@@ -1,0 +1,30 @@
+
+/* Similar to home.css but can have unique styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e4e4e4;
+}
+
+header {
+    background: #444;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    color: #ff9800;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
